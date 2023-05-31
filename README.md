@@ -6,3 +6,7 @@ We will see this changes in a second commit.
 ## subhead
 
 This is a test to add changes locally.
+
+## Local development
+
+1. Open index.html in your browser.
