@@ -10,3 +10,4 @@ This is a test to add changes locally.
 ## Local development
 
 1. Open index.html in your browser.
+2. Another person is modifying this file too.
